@@ -1,3 +1,6 @@
+git add package-lock.json
+git commit -m "Add package-lock for GitHub Actions"
+git push origin master
 {
   "name": "tanstack_start_ts",
   "private": true,
